@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @darpbr
-- 👀 I’m interested in make me a Devops
+- 👀 I’m interested in making a difference.
 - 🌱 I’m currently learning Spring Framework, Kubernetes and Python
 - 💞️ I’m looking to collaborate on new projects end chalenges
 - 📫 How to reach me darpbr@gmail.com
