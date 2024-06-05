@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/darp_br" target="blank"><img src="https://img.shields.io/twitter/follow/darp_br?logo=twitter&style=for-the-badge" alt="darp_br" /></a> </p>
 
-- 🌱 I’m currently learning **Quarkus, SRE**
+- 🌱 I’m currently learning **JAVA Quarkus, SRE**
 
-- 💬 Ask me about **JAVA, PYTHON**
+- 💬 Ask me about **JAVA, PYTHON, DEVSECOPS**
 
 - 📫 How to reach me **darpbr@gmail.com**
 
